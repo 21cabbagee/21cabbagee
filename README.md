@@ -14,10 +14,10 @@
 ## Socials:
 
 <p align="left">
-	<a href="https://www.instagram.com/velaneeeee/" target="_blank">
+	<a href="https://www.instagram.com/21cabbage/" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32">
 	</a>
-	<a href="https://www.linkedin.com/in/saurabh-pandey-cyborgsessions" target="_blank">
+	<a href="I'll probably get something out from my pile of projects and upload here sometimes lol" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32">
 	</a>
 	<a href="https://github.com/21cabbagee" target="_blank">
