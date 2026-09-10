@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I'm+Saurabh+Pandey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I'm+21cabbagee+aka+Saurabh+Pandey.)](https://git.io/typing-svg)
 
 <table style="border: none; width: 100%;">
 	<tr style="border: none;">
@@ -7,11 +7,11 @@
 - B.Tech CSE Graduate from SRMIST, BLR/TN  
 - Software Engineer & GenAI Safety Enthusiast  
 - Building Scalable Systems, LLM Optimization & Full-Stack Apps  
-- Also I make art [Instagram](https://www.instagram.com/velaneeeee/)  
+
 
 		</td>
 		<td style="width: 15%; border: none;">
-			<img src="https://i.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" height="200px"/>
+			<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" height="200px"/>
 		</td>
 	</tr>
 </table>
