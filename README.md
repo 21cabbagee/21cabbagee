@@ -8,11 +8,6 @@
 - Software Engineer & GenAI Safety Enthusiast  
 - Building Scalable Systems, LLM Optimization & Full-Stack Apps  
 
-
-		</td>
-		<td style="width: 15%; border: none;">
-			<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" height="200px"/>
-		</td>
 	</tr>
 </table>
 
